@@ -60,7 +60,6 @@ You can test the API using Postman or Swagger. After running the application, na
 - **Participants**: Stores participant information (Name, Email).
 - **Groups**: Stores the group assignments for participants.
 - **Matches**: Stores details about each match (Player1, Player2, Winner, MatchTime, etc.).
-- **Rounds**: Defines rounds for the matches.
 - **Leagues**: Stores the overall league information.
 
 ## Future Improvements

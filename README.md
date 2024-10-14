@@ -30,7 +30,7 @@ git clone https://github.com/Nada-Ghoneim/The-Champion-SCB.git
 Update the connection string in the `appsettings.json` file to point to your local SQL Server instance:
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=DESKTOP-V2D9KIV\\MSSQLSERVER01;Database=ChessLeagueDB;Trusted_Connection=True;"
+  "DefaultConnection": "Server=DESKTOP-V2D9KIV\\MSSQLSERVER01;Database=ChessLeagueDB1;Trusted_Connection=True;"
 }
 ```
 

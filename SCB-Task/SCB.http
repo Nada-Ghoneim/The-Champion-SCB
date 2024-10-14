@@ -1,0 +1,6 @@
+@SCB_HostAddress = http://localhost:5246
+
+GET {{SCB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
